@@ -1,0 +1,80 @@
+{
+  "configs": [
+    {
+      "tag": "de-config",
+      "remarks": "🇩🇪 Германия",
+      "outbounds": [
+        {
+          "protocol": "vless",
+          "settings": {
+            "vnext": [
+              {
+                "address": "de-03.anotherboring.top",
+                "port": 443,
+                "users": [
+                  {
+                    "id": "57d18614-c322-49e8-9b07-fe30ed8fedf9",
+                    "encryption": "none",
+                    "flow": "xtls-rprx-vision",
+                    "level": 8
+                  }
+                ]
+              }
+            ]
+          },
+          "streamSettings": {
+            "network": "tcp",
+            "security": "reality",
+            "realitySettings": {
+              "allowInsecure": false,
+              "fingerprint": "chrome",
+              "publicKey": "C1nTKBKNuCc5B1iMqbNBodE9W9lQJovw--jF6yhE8DM",
+              "serverName": "mail.yandex.ru",
+              "shortId": "9d21bea37f7da010",
+              "show": false
+            },
+            "tcpSettings": { "header": { "type": "none" } }
+          }
+        }
+      ]
+    },
+    {
+      "tag": "nl-config",
+      "remarks": "🇳🇱 Нидерланды",
+      "outbounds": [
+        {
+          "protocol": "vless",
+          "settings": {
+            "vnext": [
+              {
+                "address": "nl-01.anotherboring.top",
+                "port": 443,
+                "users": [
+                  {
+                    "id": "57d18614-c322-49e8-9b07-fe30ed8fedf9",
+                    "encryption": "none",
+                    "flow": "xtls-rprx-vision",
+                    "level": 8
+                  }
+                ]
+              }
+            ]
+          },
+          "streamSettings": {
+            "network": "tcp",
+            "security": "reality",
+            "realitySettings": {
+              "allowInsecure": false,
+              "fingerprint": "chrome",
+              "publicKey": "V8SoXysVeJT4ObuVV8iowYtFnpmjr5GxK4T1Wk2HoD8",
+              "serverName": "mail.yandex.ru",
+              "shortId": "a7c42d661d53f146",
+              "show": false
+            },
+            "tcpSettings": { "header": { "type": "none" } }
+          }
+        }
+      ]
+    }
+  ]
+}
