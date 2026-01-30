@@ -1,0 +1,3 @@
+vless://57d18614-c322-49e8-9b07-fe30ed8fedf9@nl-01.anotherboring.top:443?security=reality&encryption=none&pbk=V8SoXysVeJT4ObuVV8iowYtFnpmjr5GxK4T1Wk2HoD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mail.yandex.ru&sid=a7c42d661d53f146#🇳🇱 Нидерланды
+
+vless://57d18614-c322-49e8-9b07-fe30ed8fedf9@de-03.anotherboring.top:443?security=reality&encryption=none&pbk=C1nTKBKNuCc5B1iMqbNBodE9W9lQJovw--jF6yhE8DM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mail.yandex.ru&sid=9d21bea37f7da010#🇩🇪 Германия
